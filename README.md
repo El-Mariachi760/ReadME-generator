@@ -15,11 +15,9 @@
   ## Installation 
   Before running app, make sure to install npm package inquirer.
   ## Usage 
-  After lauching app in command-line, answer questions when prompted. [Watch Demo](!
-
+  After lauching app in command-line, answer questions when prompted.
+  ### Demo
 https://user-images.githubusercontent.com/94568874/172072145-2b843b25-9129-4774-ac20-2e17a8656865.mp4
-
- )
   ## License 
   This project is licensed under MIT
   ## Contributing 
